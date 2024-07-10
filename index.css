@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+form{
+border: 1px solid #dedede;
+}
+form label {
+    display: block;
+}
+form input {
+    width: 100%;
+    display: block;
+}
+form button {
+    
+}
